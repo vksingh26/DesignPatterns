@@ -7,7 +7,8 @@ Design Pattern Using Typescript
  
 * singleton patters? (one of the creational design pattern)
   Use to have a single instance of a specific class in the whole application
-Benefits:
+  
+  Benefits:
   Shared State: Use to store application state most common in mobile application
   Avoid long initializations:
   cross-class communication
