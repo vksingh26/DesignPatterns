@@ -12,3 +12,7 @@ Benefits:
   Avoid long initializations:
   cross-class communication
   Perfectly represents unique item
+  
+* Factory Pattern?:
+  Combination of single responsibility and open closed principles
+    The open/closed principle states "software entities (classes, modules, functions, etc.) should be open for extension, but closed for       modification";[1] that is, such an entity can allow its behaviour to be extended without modifying its source code.
