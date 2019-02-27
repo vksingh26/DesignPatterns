@@ -17,3 +17,8 @@ Design Pattern Using Typescript
 * Factory Pattern?:
   Combination of single responsibility and open closed principles
     The open/closed principle states "software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification", that is, such an entity can allow its behaviour to be extended without modifying its source code.
+* Object Pool
+    A pool of preinitilized objects whose initialization if heavyweight.
+    Whenever we need such kind of object we take it from the pool.
+    When we are done with that object we return them back to the pool or we destroy them.
+    We usually combine object pool with factory pattern
