@@ -1,0 +1,19 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "Design Pattern using TS",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vksingh26/DesignPatterns.git"
+  },
+  "author": "Vikash Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vksingh26/DesignPatterns/issues"
+  },
+  "homepage": "https://github.com/vksingh26/DesignPatterns#readme"
+}
